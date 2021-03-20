@@ -1,0 +1,125 @@
+.bebas-Neue{
+    font-family: 'Bebas Neue', cursive;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+    padding:0px;
+}
+.topsection{
+    background-color:#F0FFF0;
+}
+.colorh1{
+    color:#21B573;
+}
+.buttondesign{
+    border-radius:40px;
+    background-color:#21B573;
+    width:104px;
+    height:43px;
+    color:white;
+}
+.h1title{
+    font-size:36px;
+    color:#413960;
+}
+.getbutton{
+    width:143px;
+    height:43px;
+}
+.cardheight{
+    height:250px;
+    background-color:#F8FFFB;
+    border:0px;
+}
+
+.cardimgheight{
+    height:270px;
+    border:1px solid red;
+}
+.h4design{
+    color:#413960;
+    line-height:36px;
+    font-size:24px;
+}
+.h6design{
+    color:#585859;
+    line-height:24px;
+    font-size:16px;
+
+}
+.calendarlogo,.peoplelogo{
+    width:24px;
+    height:24px;
+}
+.footercolor{
+    color:#585859;
+}
+.bottomdesign{
+    background-color:#282531;
+    color:white;
+    margin:0px;
+    padding:0px;
+}
+.lidesign li{
+    list-style-type:none;
+}
+.uldesign{
+    width:33%!important;
+}
+
+@media (min-width:768px){
+    .bottompdesign{
+        font-size:15px !important;
+    text-align:justify;
+    }
+    .lidesign li{
+        font-size:16px!important;
+    }
+    .h6design{
+        font-size:16px!important;
+    }
+   .lidesign1{
+        font-size:16px !important;
+        color:white;   
+    }
+    .testimonialimage{
+        width:40%;
+        height:40%;
+        margin-left:45%;
+    }
+}
+@media (max-width:1000px){
+    .bottompdesign{
+        font-size:12px !important;
+        margin-left:-10px!important;
+    }
+    .testimonialimage{
+        width:50%;
+        height:50%;
+        margin-left:25%;
+    }
+    .lidesign li{
+        font-size:12px!important;
+    }
+    .h6design1{
+        font-size:12px!important;
+        margin-left:-20px!important;
+    }
+    
+    .cyandesign1{
+        margin-top:20px!important;
+        width:27%!important;
+        margin-left:8px!important;
+    }
+    .cyandesign2{
+        width:66%!important;
+        margin-top:20px!important;
+    }
+    .lidesign1{
+        font-size:12px!important;
+        color:blue;
+        margin-left:-32px;
+        padding-right:10px;
+    }
+}
